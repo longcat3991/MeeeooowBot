@@ -5,14 +5,15 @@
 * `!botcheck`
 
   * To check if the bot is currently active.
-  
   * If it is, it will answer the user.
  
 * `!dsize`
 
   * Check your own dick size!
   
-  * Range is from 1 to 30 cm, the bot will judge according to your size.
+  * Range is from 1 to 30 cm.
+  
+  * The bot will judge according to your size.
   
 * `!game`
   
@@ -36,7 +37,7 @@
 
 * `!game [game name]`
 
-  * Lets you change the current game that is displayed by the "!game" command
+  * Lets you change the current game that is displayed by the "!game" command.
   
 * `!startpee`
 
