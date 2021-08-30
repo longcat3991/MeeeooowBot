@@ -53,5 +53,4 @@
 
   * Bans every user that used the specified phrase within the last 5 minutes.
   * This is useful against spam bots.
-  
   * ! Be careful with this !
