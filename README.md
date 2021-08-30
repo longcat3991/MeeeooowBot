@@ -10,9 +10,7 @@
 * `!dsize`
 
   * Check your own dick size!
-  
   * Range is from 1 to 30 cm.
-  
   * The bot will judge according to your size.
   
 * `!game`
@@ -22,7 +20,6 @@
 * `!deathcount`
 
   * Tells you how many times Sniperka died in-game.
-  
   * If used by a mod, this will also increase the counter by 1.
   
 * `!pets`
@@ -50,13 +47,11 @@
 * `!endpee`
 
   * Ends the pee speedrun and tells you the time.
-  
   * Will also tell you when it's a new record time.
   
 * `!nuke [banphrase]`
 
   * Bans every user that used the specified phrase within the last 5 minutes.
-  
   * This is useful against spam bots.
   
   * ! Be careful with this !
